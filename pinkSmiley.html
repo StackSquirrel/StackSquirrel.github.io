@@ -1,0 +1,47 @@
+<meta name="description" content="Pink smiley face">
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<canvas id="myCanvas" width="500" height="400">Your browser does not support the canvas tag.</canvas>
+
+<script type="text/javascript">
+var canvas=document.getElementById('myCanvas');
+var ctx=canvas.getContext('2d');
+  
+  
+ctx.beginPath();
+// try to set the last parameter to true or remove it
+ctx.arc(160,105,40,0,Math.PI/1);
+  
+
+ctx.lineWidth=10;
+ctx.stroke();
+  ctx.arc(160,105,61,0,Math.PI/.5);
+  ctx.fillStyle = "pink";
+  ctx.fill();
+
+  ctx.beginPath();
+ ctx.arc(160,105,40,0,Math.PI/1);
+//  ctx.lineWidth=10;
+ ctx.stroke();
+  
+ctx.beginPath();
+
+// first part of the eyes
+ctx.moveTo(125,75);
+ctx.lineTo(145,75); 
+
+// second part of the eyes, moveTo(...) is used to "jump" to another place
+ctx.moveTo(180,75);
+ctx.lineTo(200,75); 
+
+// indicate stroke color + draw the path
+ctx.strokeStyle = "#0000FF";
+ctx.stroke();
+
+</script>
+
+</body>
+</html>
