@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<!--
+Stochastic Texts reimplementation
+copyright (c) 2014 Nick Montfort <nickm@nickm.com>
+based on a 1959 program (Stochastische Texte) by Theo Lutz
+the text is a translation of Lutz's German text by Helen MacCormack
+
+This version was modified by Donna MacLeod in 2018.
+
+Permission to use, copy, modify, and/or distribute this software for any
+purpose with or without fee is hereby granted, provided that the above
+copyright notice and this permission notice appear in all copies.
+
+THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES
+WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF
+MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY
+SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
+WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
+ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR
+IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
+-->
+<style type="text/css">
+/* <![CDATA[ */
+body {
+ background:#000;
+ color:#ccc;
+ margin:0 0 0 18pt;
+ font-family:Optima, sans-serif;
+ font-size:16pt;
+}
+a {
+ color:#117;
+ text-decoration:none;
+}
+#main {
+ padding-top:18px;
+ width:70%;
+}
+#main div {
+ font-weight:bold;
+ padding-bottom:9px;
+}
+#info {
+ top:0;
+ right:0;
+ bottom:0;
+ position:absolute;
+ height:100%;
+ width:25%;
+ color:#333;
+ background:#999;
+ margin-left:6px;
+ border-left:thin #000 solid;
+ border-bottom:thin #000 solid;
+ padding:9px;
+ font-size:80%
+}
+/* ]]> */
+</style>
+<script type="text/javascript">
+
+var t = 0,
+subjects = ['BARON', 'FAMILIAR', 'SIGHT', 'GROVE', 'CITADEL', 'IMAGE',
+            'EYE', 'HAMLET', 'SONG', 'WORKER', 'PATH', 'FRIEND', 'LIGHT',
+            'HOME', 'TABLE', 'TRIANGLE', 'SIGH'],
+adjectives = ['FLUFFY', 'JANGLY', 'HYSTERICAL', 'NEAR-SIGHTED', 'FAMOUS', 'UNFORSEEN',
+            'WIGGLY', 'EMBARASSING', 'LOUD', 'SILENT', 'WINDING', 'GREEN', 'BRIGHT',
+            'NEAT', 'CLEAN', 'SHARP', 'DEEP'],
+predicates = ['OPEN', 'SILENT', 'STRONG', 'GOOD', 'NARROW', 'NEAR',
+              'NEW', 'QUIET', 'FAR', 'DEEP', 'LATE', 'DARK', 'FREE',
+              'LARGE', 'OLD', 'ANGRY'],
+adverbs = [' WILLINGLY ', ' FUNDAMENTALLY ', '', ' NECESSARILY ', '', '', '', ''],
+conjunctions = [' AND ', ' OR ', ' THEREFORE ', ' NECESSARILY. ', ' ALBEIT ', '. ', '. ', '. '],
+operators = ['A', 'EVERY', 'NO', 'NOT EVERY'];
+function rand_range(maximum) {
+    "use strict";
+    return Math.floor(Math.random() * (maximum + 1));
+}
+function choose(array) {
+    "use strict";
+    return array[rand_range(array.length - 1)];
+}
+function phrase() {
+    "use strict";
+    var text = choose(operators) + ' ' + choose(adjectives) + ' ' + choose(subjects);
+    if (text === 'A IMAGE') {
+        text = 'AN IMAGE';
+    }
+    if (text === 'A EYE') {
+        text = 'AN EYE';
+    }
+    if (text === 'A HYSTERICAL') {
+        text = 'AN HYSTERICAL';
+    }
+    return text + ' IS ';
+}
+function litany() {
+    "use strict";
+    var last, text, main = document.getElementById('main');
+    if (25 > t) {
+        t += 1;
+    } else {
+        main.removeChild(document.getElementById('main').firstChild);
+    }
+    last = document.createElement('div');
+    text = phrase() + choose(predicates) + choose(conjunctions);
+    text = text + phrase() + choose(adverbs) + choose(predicates) + '.';
+    last.innerHTML = text;
+    main.appendChild(last);
+}
+function produce_litany() {
+    "use strict";
+    litany();
+    setInterval(litany, 2000);
+}
+
+</script>
+  <title>Stochastic Texts</title>
+</head>
+
+<body onload="produce_litany();">
+<div id="info">
+    <h2>Stochastic Texts</h2>
+    <h3>Theo Lutz</h3>
+    1959<br />
+    Zuse Z22<br />
+    ALGOL 58<br />
+    <br />
+    Translated by<br />
+    Helen MacCormack<br />
+    <br />
+    Reimplemented by<br />
+    <a href="http://nickm.com">Nick Montfort</a><br />
+    for <a href="http://nickm.com/memslam/">Memory Slam</a><br />
+    Also: a <a href="stochastic_texts.py">Python 2/3</a> version
+    <br /><br />
+    Modified by<br />
+    <a href="http://dmacleod.ca">Donna MacLeod</a><br />
+    in 2018, just for the heck of it.<br />
+</div>
+<div id="main"></div>
+</body>
+</html>
