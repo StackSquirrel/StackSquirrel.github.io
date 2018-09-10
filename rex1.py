@@ -2,7 +2,7 @@
 # rex1.py - regex searching of text
 
 import re 
-source = open('pride&prejudice.txt')    
+source = open('./texts/pride&prejudice.txt')    
 pride = source.read()
 print(pride[:1000]) # prints the first 1000 characters of the file
 print()
