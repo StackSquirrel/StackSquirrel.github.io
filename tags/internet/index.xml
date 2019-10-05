@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Internet on Readers&#39; Advisory blog</title>
+    <link>https://dmacleod.ca/ra/tags/internet/</link>
+    <description>Recent content in Internet on Readers&#39; Advisory blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 06 Apr 2013 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://dmacleod.ca/ra/tags/internet/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>UContent by Nicholas Toaiuolo</title>
+      <link>https://dmacleod.ca/ra/posts/ucontent-by-nicholas-tomaiuolo/</link>
+      <pubDate>Sat, 06 Apr 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://dmacleod.ca/ra/posts/ucontent-by-nicholas-tomaiuolo/</guid>
+      <description>About the book Author: Tomaiuolos, Nicholas G.
+Title: UContent: The information professional&amp;rsquo;s guide to user-generated content.
+Publication: Medford, N.J.: Information Today, 2012. 340p. ISBN 9781573874250
+About the book User-education librarian and information-literacy instructor Nicholas Tomaiuolo presents an overview of the major &amp;ldquo;Web 2.0&amp;rdquo; resources and how librarians might and have used them.
+Because of the fungible nature of his material, he provides a companion website which he commits to updating with resources as they move or become available.</description>
+    </item>
+    
+  </channel>
+</rss>

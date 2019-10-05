@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Service Dog on Readers&#39; Advisory blog</title>
+    <link>https://dmacleod.ca/ra/tags/service-dog/</link>
+    <description>Recent content in Service Dog on Readers&#39; Advisory blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 11 Aug 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://dmacleod.ca/ra/tags/service-dog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>On hiatus for a while</title>
+      <link>https://dmacleod.ca/ra/posts/still-reading-but-also-doing-other-stuff/</link>
+      <pubDate>Sat, 11 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://dmacleod.ca/ra/posts/still-reading-but-also-doing-other-stuff/</guid>
+      <description>It occurs to me that, since I began my sabbatical in March, I have not been posting about my recreational reading. I am still reading for fun, but much less than I did when in the normal run of things. The difference is shocking!
+While off, I have been indulging in my desire to learn Python programming for data munging, and also Web stuff like HTML5, CSS3 and JavaScript, and various volunteer web-development projects.</description>
+    </item>
+    
+  </channel>
+</rss>

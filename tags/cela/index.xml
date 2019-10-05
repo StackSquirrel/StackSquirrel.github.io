@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cela on Readers&#39; Advisory blog</title>
+    <link>https://dmacleod.ca/ra/tags/cela/</link>
+    <description>Recent content in Cela on Readers&#39; Advisory blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://dmacleod.ca/ra/tags/cela/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CELA now has DAISY text magazines</title>
+      <link>https://dmacleod.ca/ra/posts/cela-now-has-daisy-text-magazines/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://dmacleod.ca/ra/posts/cela-now-has-daisy-text-magazines/</guid>
+      <description>This is a very exciting development, in my opinion. I do like to read magazines from time to time, but the ones that CELA offered frankly don&amp;rsquo;t interest me (apart from L&amp;rsquo;Actualité and, sometimes, MacLean&amp;rsquo;s magazine). The new offerings include WIRED magazine, though, which makes me really happy.
+What is a DAISY book? In case you don&amp;rsquo;t know, DAISY is an accessible format that allows visually-impaired people to navigate books, create bookmarks, and generally use a book the way a sighted person would, only by listening.</description>
+    </item>
+    
+  </channel>
+</rss>
