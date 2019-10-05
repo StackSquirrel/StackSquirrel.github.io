@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on Readers&#39; Advisory blog</title>
-    <link>https://dmacleod.ca/ra/categories/publications/</link>
+    <link>https://StackSquirrel.github.io/categories/publications/</link>
     <description>Recent content in Publications on Readers&#39; Advisory blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 12 Nov 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://dmacleod.ca/ra/categories/publications/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://StackSquirrel.github.io/categories/publications/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Publications</title>
-      <link>https://dmacleod.ca/ra/pages/publications/</link>
+      <link>https://StackSquirrel.github.io/pages/publications/</link>
       <pubDate>Mon, 12 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://dmacleod.ca/ra/pages/publications/</guid>
+      <guid>https://StackSquirrel.github.io/pages/publications/</guid>
       <description>Talks and workshops OLA Superconference 2018 Disaster recovery in a box: Planning to save your collections in an emergency.
 Speakers: Donna Marie MacLeod, Wendy McPhee, Tessa Thomas When: Friday, Feb 02 | 9:50 am - 10:30 am
  Profile Session Presentation: Disaster Recovery in a box Form: Branch collection Form: Initial damage assessment Inventory: Inventory disaster plan - spreadsheet  Sir Sanford Fleming college Every year for the past few years, I have done a guest lecture for the Preservation of Books, Photos and Archival Materials course (SCIE0047) in Fleming College’s Cultural Heritage Conservation and Management program, (session instructor Laura Cunningham).</description>

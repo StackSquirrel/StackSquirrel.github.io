@@ -2,41 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cool Blind Stuff on Readers&#39; Advisory blog</title>
-    <link>https://dmacleod.ca/ra/categories/cool-blind-stuff/</link>
+    <link>https://StackSquirrel.github.io/categories/cool-blind-stuff/</link>
     <description>Recent content in Cool Blind Stuff on Readers&#39; Advisory blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 11 Aug 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://dmacleod.ca/ra/categories/cool-blind-stuff/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://StackSquirrel.github.io/categories/cool-blind-stuff/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>On hiatus for a while</title>
-      <link>https://dmacleod.ca/ra/posts/still-reading-but-also-doing-other-stuff/</link>
+      <link>https://StackSquirrel.github.io/posts/still-reading-but-also-doing-other-stuff/</link>
       <pubDate>Sat, 11 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://dmacleod.ca/ra/posts/still-reading-but-also-doing-other-stuff/</guid>
+      <guid>https://StackSquirrel.github.io/posts/still-reading-but-also-doing-other-stuff/</guid>
       <description>It occurs to me that, since I began my sabbatical in March, I have not been posting about my recreational reading. I am still reading for fun, but much less than I did when in the normal run of things. The difference is shocking!
 While off, I have been indulging in my desire to learn Python programming for data munging, and also Web stuff like HTML5, CSS3 and JavaScript, and various volunteer web-development projects.</description>
     </item>
     
     <item>
       <title>CELA now has DAISY text magazines</title>
-      <link>https://dmacleod.ca/ra/posts/cela-now-has-daisy-text-magazines/</link>
+      <link>https://StackSquirrel.github.io/posts/cela-now-has-daisy-text-magazines/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://dmacleod.ca/ra/posts/cela-now-has-daisy-text-magazines/</guid>
+      <guid>https://StackSquirrel.github.io/posts/cela-now-has-daisy-text-magazines/</guid>
       <description>This is a very exciting development, in my opinion. I do like to read magazines from time to time, but the ones that CELA offered frankly don&amp;rsquo;t interest me (apart from L&amp;rsquo;Actualité and, sometimes, MacLean&amp;rsquo;s magazine). The new offerings include WIRED magazine, though, which makes me really happy.
 What is a DAISY book? In case you don&amp;rsquo;t know, DAISY is an accessible format that allows visually-impaired people to navigate books, create bookmarks, and generally use a book the way a sighted person would, only by listening.</description>
     </item>
     
     <item>
       <title>Easy 3D printing of Braille</title>
-      <link>https://dmacleod.ca/ra/posts/easy-3d-printing-of-braille/</link>
+      <link>https://StackSquirrel.github.io/posts/easy-3d-printing-of-braille/</link>
       <pubDate>Fri, 11 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://dmacleod.ca/ra/posts/easy-3d-printing-of-braille/</guid>
+      <guid>https://StackSquirrel.github.io/posts/easy-3d-printing-of-braille/</guid>
       <description>Wherein I digress Taking a break from the usual book review, I thought I would talk about something cool that turned out to be very easy, thanks to my local library.
 I was talking to my instructor at the wonderful Hadley School for the Blind, a correspondence school for blind people and those with low-vision (and their families). We were discussing clothing markers, which are attached to hangers and used to distinguish colours (blue, black, brown, etc.</description>
     </item>

@@ -2,84 +2,84 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Readers&#39; Advisory blog</title>
-    <link>https://dmacleod.ca/ra/categories/</link>
+    <link>https://StackSquirrel.github.io/categories/</link>
     <description>Recent content in Categories on Readers&#39; Advisory blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 31 Mar 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://dmacleod.ca/ra/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://StackSquirrel.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Award Winners</title>
-      <link>https://dmacleod.ca/ra/categories/award-winners/</link>
+      <link>https://StackSquirrel.github.io/categories/award-winners/</link>
       <pubDate>Sat, 31 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://dmacleod.ca/ra/categories/award-winners/</guid>
+      <guid>https://StackSquirrel.github.io/categories/award-winners/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Book Review</title>
-      <link>https://dmacleod.ca/ra/categories/book-review/</link>
+      <link>https://StackSquirrel.github.io/categories/book-review/</link>
       <pubDate>Sat, 31 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://dmacleod.ca/ra/categories/book-review/</guid>
+      <guid>https://StackSquirrel.github.io/categories/book-review/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cool Blind Stuff</title>
-      <link>https://dmacleod.ca/ra/categories/cool-blind-stuff/</link>
+      <link>https://StackSquirrel.github.io/categories/cool-blind-stuff/</link>
       <pubDate>Sat, 11 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://dmacleod.ca/ra/categories/cool-blind-stuff/</guid>
+      <guid>https://StackSquirrel.github.io/categories/cool-blind-stuff/</guid>
       <description></description>
     </item>
     
     <item>
       <title>En Français</title>
-      <link>https://dmacleod.ca/ra/categories/en-fran%C3%A7ais/</link>
+      <link>https://StackSquirrel.github.io/categories/en-fran%C3%A7ais/</link>
       <pubDate>Sat, 24 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://dmacleod.ca/ra/categories/en-fran%C3%A7ais/</guid>
+      <guid>https://StackSquirrel.github.io/categories/en-fran%C3%A7ais/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fiction</title>
-      <link>https://dmacleod.ca/ra/categories/fiction/</link>
+      <link>https://StackSquirrel.github.io/categories/fiction/</link>
       <pubDate>Sat, 31 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://dmacleod.ca/ra/categories/fiction/</guid>
+      <guid>https://StackSquirrel.github.io/categories/fiction/</guid>
       <description></description>
     </item>
     
     <item>
       <title>In Memoriam</title>
-      <link>https://dmacleod.ca/ra/categories/in-memoriam/</link>
+      <link>https://StackSquirrel.github.io/categories/in-memoriam/</link>
       <pubDate>Tue, 23 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://dmacleod.ca/ra/categories/in-memoriam/</guid>
+      <guid>https://StackSquirrel.github.io/categories/in-memoriam/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Non Fiction</title>
-      <link>https://dmacleod.ca/ra/categories/non-fiction/</link>
+      <link>https://StackSquirrel.github.io/categories/non-fiction/</link>
       <pubDate>Sat, 25 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://dmacleod.ca/ra/categories/non-fiction/</guid>
+      <guid>https://StackSquirrel.github.io/categories/non-fiction/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Publications</title>
-      <link>https://dmacleod.ca/ra/categories/publications/</link>
+      <link>https://StackSquirrel.github.io/categories/publications/</link>
       <pubDate>Mon, 12 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://dmacleod.ca/ra/categories/publications/</guid>
+      <guid>https://StackSquirrel.github.io/categories/publications/</guid>
       <description></description>
     </item>
     

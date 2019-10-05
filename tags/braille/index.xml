@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Braille on Readers&#39; Advisory blog</title>
-    <link>https://dmacleod.ca/ra/tags/braille/</link>
+    <link>https://StackSquirrel.github.io/tags/braille/</link>
     <description>Recent content in Braille on Readers&#39; Advisory blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 11 Nov 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://dmacleod.ca/ra/tags/braille/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://StackSquirrel.github.io/tags/braille/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Easy 3D printing of Braille</title>
-      <link>https://dmacleod.ca/ra/posts/easy-3d-printing-of-braille/</link>
+      <link>https://StackSquirrel.github.io/posts/easy-3d-printing-of-braille/</link>
       <pubDate>Fri, 11 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://dmacleod.ca/ra/posts/easy-3d-printing-of-braille/</guid>
+      <guid>https://StackSquirrel.github.io/posts/easy-3d-printing-of-braille/</guid>
       <description>Wherein I digress Taking a break from the usual book review, I thought I would talk about something cool that turned out to be very easy, thanks to my local library.
 I was talking to my instructor at the wonderful Hadley School for the Blind, a correspondence school for blind people and those with low-vision (and their families). We were discussing clothing markers, which are attached to hangers and used to distinguish colours (blue, black, brown, etc.</description>
     </item>

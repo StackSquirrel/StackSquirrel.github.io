@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on Readers&#39; Advisory blog</title>
-    <link>https://dmacleod.ca/ra/pages/</link>
+    <link>https://StackSquirrel.github.io/pages/</link>
     <description>Recent content in Pages on Readers&#39; Advisory blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 27 Nov 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://dmacleod.ca/ra/pages/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://StackSquirrel.github.io/pages/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Browse by topics</title>
-      <link>https://dmacleod.ca/ra/pages/topics/</link>
+      <link>https://StackSquirrel.github.io/pages/topics/</link>
       <pubDate>Tue, 27 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://dmacleod.ca/ra/pages/topics/</guid>
+      <guid>https://StackSquirrel.github.io/pages/topics/</guid>
       <description>Browse by categories  Fiction Non-fiction  Award-winners * Cool blind stuff * En français * In memoriam
 Browse by genre Autobiography * Essays * Historical fiction * History * Interpersonal fiction (aka &amp;ldquo;chick lit&amp;rdquo;) * Librarianship * Literary fiction * Multi-part series * Mystery * Mythology * Romance * Short fiction * Society Speculative fiction * Young adult *
 Browse by tags Historical fiction: * prehistory * ancient history * 1500s * 1790s * 1800s * 1840s * 1870s * 1880s * 1890s * 1900s * 1920s * 1930s * 1940s * 1950s * 1960s * 1970s * 1980s * 1990s * 2000s * 2010s</description>
@@ -24,10 +24,10 @@ Browse by tags Historical fiction: * prehistory * ancient history * 1500s * 1790
     
     <item>
       <title>Publications</title>
-      <link>https://dmacleod.ca/ra/pages/publications/</link>
+      <link>https://StackSquirrel.github.io/pages/publications/</link>
       <pubDate>Mon, 12 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://dmacleod.ca/ra/pages/publications/</guid>
+      <guid>https://StackSquirrel.github.io/pages/publications/</guid>
       <description>Talks and workshops OLA Superconference 2018 Disaster recovery in a box: Planning to save your collections in an emergency.
 Speakers: Donna Marie MacLeod, Wendy McPhee, Tessa Thomas When: Friday, Feb 02 | 9:50 am - 10:30 am
  Profile Session Presentation: Disaster Recovery in a box Form: Branch collection Form: Initial damage assessment Inventory: Inventory disaster plan - spreadsheet  Sir Sanford Fleming college Every year for the past few years, I have done a guest lecture for the Preservation of Books, Photos and Archival Materials course (SCIE0047) in Fleming College’s Cultural Heritage Conservation and Management program, (session instructor Laura Cunningham).</description>
@@ -35,20 +35,20 @@ Speakers: Donna Marie MacLeod, Wendy McPhee, Tessa Thomas When: Friday, Feb 02 |
     
     <item>
       <title>About this blog</title>
-      <link>https://dmacleod.ca/ra/pages/about/</link>
+      <link>https://StackSquirrel.github.io/pages/about/</link>
       <pubDate>Fri, 01 Mar 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://dmacleod.ca/ra/pages/about/</guid>
+      <guid>https://StackSquirrel.github.io/pages/about/</guid>
       <description>I am a Canadian librarian living with vision loss. This blog helps me with RA (reader advisory) work, by reminding me of what I have read and to whom I might recommend such titles.
 Many of the books I read and then write about are available through the CELA library, my local public library, or via Bookshare, in the US. They are DAISY format books, which can be read using a DAISY reader.</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://dmacleod.ca/ra/pages/contact/</link>
+      <link>https://StackSquirrel.github.io/pages/contact/</link>
       <pubDate>Fri, 01 Mar 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://dmacleod.ca/ra/pages/contact/</guid>
+      <guid>https://StackSquirrel.github.io/pages/contact/</guid>
       <description>You can contact me through this website: info (at) dmacleod (dot) ca.</description>
     </item>
     
